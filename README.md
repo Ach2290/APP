@@ -27,3 +27,60 @@ Descubre una nueva forma de vivir tu pasión por el fútbol, conecta con otros e
 7.  **Perfil Personalizado:** Crea un perfil único que destaque tu estilo de juego, logros y preferencias. Comparte tu pasión por el fútbol y conecta con otros usuarios que comparten intereses similares.
     
 8.  **Chat Integrado:** Comunícate con tus compañeros de equipo, rivales y otros usuarios a través de un chat integrado. Coordina detalles, comparte estrategias y construye relaciones dentro de la comunidad SoccerScout.
+
+# A quien va dirigida nuestra App
+
+Está dirigida a una amplia audiencia de aficionados al fútbol y amantes del deporte en general. Nuestra plataforma busca satisfacer las necesidades y expectativas de diversos perfiles de usuarios que comparten una pasión común por el fútbol. La aplicación está especialmente diseñada para:
+
+**Aficionados al Fútbol:** SoccerScout es ideal para aquellos que aman el fútbol y desean participar activamente en partidos, ya sea organizando encuentros con amigos o uniéndose a partidos abiertos.
+    
+**Grupos de Amigos:** La aplicación brinda a grupos de amigos la oportunidad de coordinar y organizar partidos de manera fácil y eficiente, reservando campos de calidad para disfrutar de momentos divertidos y emocionantes juntos.
+    
+**Jugadores Solitarios:** Para aquellos que no pueden reunir a un grupo de amigos, SoccerScout ofrece la posibilidad de unirse a partidos existentes y conectarse con nuevos compañeros de juego, fomentando la socialización a través del deporte.
+    
+ **Comunidades Deportivas Locales:** Equipos de fútbol, ligas y otras comunidades deportivas locales pueden utilizar SoccerScout para gestionar sus partidos, compartir eventos y facilitar la participación de nuevos miembros.
+    
+**Personas en Busca de Actividad Física:** La aplicación es ideal para aquellos que buscan mantenerse activos y saludables a través del fútbol, proporcionando una plataforma conveniente para programar partidos y unirse a eventos deportivos.
+    
+**Entusiastas de la Interacción Social:** La función de puntuación y el chat integrado fomentan la interacción social, permitiendo a los usuarios construir conexiones, compartir experiencias y fortalecer la comunidad SoccerScout.
+
+# DISEÑO DE LA APP
+**SoccerScout** se ha concebido con un enfoque centrado en el usuario, garantizando una experiencia intuitiva, atractiva y funcional. Aquí te presento los elementos clave del diseño de nuestra aplicación:
+
+-  **Interfaz Intuitiva:**
+    
+      **Navegación Sencilla:** Una interfaz de usuario limpia y organizada para facilitar la navegación. Menús intuitivos que permiten a los usuarios acceder fácilmente a las funciones principales.
+- **Pantalla de Inicio Atractiva:**
+    
+    -   **Presentación Dinámica:** Una pantalla de inicio atractiva que destaca las funciones principales de la aplicación, como la reserva de campos, la organización de partidos y la participación en eventos.
+-**Proceso de Reserva Eficiente:**
+    
+    -   **Flujo de Reserva Simple:** Un proceso de reserva de campos que guía al usuario de manera clara y rápida, con opciones personalizadas según la ubicación, horarios y preferencias.
+- **Perfil Personalizable:**
+    
+    -   **Edición de Perfil:** Una sección de perfil personalizable que permite a los usuarios compartir información sobre su estilo de juego, logros y preferencias, creando una identidad única dentro de la comunidad.
+-**Calendario de Partidos:**
+    
+    -   **Visualización Clara:** Un calendario interactivo que muestra los partidos programados para el día, facilitando la elección y unión a eventos existentes.
+-**Sistema de Puntuación:**
+    
+    -   **Integración de Puntuación:** Un sistema de puntuación claro y accesible para evaluar a compañeros de juego y recibir calificaciones, contribuyendo a una comunidad respetuosa y amigable.
+-**Chat Integrado:**
+    
+    -   **Comunicación en Tiempo Real:** Un chat integrado que permite a los usuarios coordinar detalles de partidos, discutir estrategias y construir relaciones dentro de la comunidad.
+-**Notificaciones Personalizadas:**
+    
+    -   **Información Relevante:** Notificaciones personalizadas que mantienen a los usuarios informados sobre partidos confirmados, nuevas oportunidades de juego y actualizaciones relevantes.
+- **Historial de Partidos:**
+    
+    -   **Acceso Rápido:** Una sección de historial de partidos que proporciona a los usuarios un acceso rápido a resultados anteriores, estadísticas y puntuaciones.
+    
+- **Diseño Responsivo:**
+     
+	- **Adaptabilidad:** Un diseño adaptable que garantiza una experiencia fluida en una variedad de dispositivos, desde teléfonos móviles hasta tabletas.
+
+### LOGO
+
+![Soccer Scout](https://github.com/Ach2290/APP/assets/132547490/d26e9180-0941-49b1-a241-071bb2150ef7)
+
+El diseño del logo se caracteriza por su simplicidad y limpieza, con un enfoque en destacar las letras "S" del nombre de la aplicación. Este diseño busca facilitar la identificación y búsqueda de la app en dispositivos móviles, ya que las letras **"S"** estarán en mayúsculas y resaltadas en color. La combinación de estos elementos crea un logo distintivo y fácilmente reconocible, asegurando que los usuarios puedan ubicar la aplicación de manera rápida y sencilla en sus dispositivos. La estética limpia del logo refleja la accesibilidad y la modernidad de la aplicación SoccerScout, invitando a los usuarios a sumergirse en una experiencia futbolística única.
