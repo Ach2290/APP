@@ -81,6 +81,40 @@ Está dirigida a una amplia audiencia de aficionados al fútbol y amantes del de
 
 ### LOGO
 
-![Soccer Scout](https://github.com/Ach2290/APP/assets/132547490/d26e9180-0941-49b1-a241-071bb2150ef7)
+![Soccer Scout(1)](https://github.com/Ach2290/APP/assets/132547490/ce60d545-52d0-41e2-81b8-b04f5c397d43)
 
 El diseño del logo se caracteriza por su simplicidad y limpieza, con un enfoque en destacar las letras "S" del nombre de la aplicación. Este diseño busca facilitar la identificación y búsqueda de la app en dispositivos móviles, ya que las letras **"S"** estarán en mayúsculas y resaltadas en color. La combinación de estos elementos crea un logo distintivo y fácilmente reconocible, asegurando que los usuarios puedan ubicar la aplicación de manera rápida y sencilla en sus dispositivos. La estética limpia del logo refleja la accesibilidad y la modernidad de la aplicación SoccerScout, invitando a los usuarios a sumergirse en una experiencia futbolística única.
+
+### COLORES
+
+![imagen](https://github.com/Ach2290/APP/assets/132547490/18062705-3e78-4bd4-96a7-bebaac124fb2)
+
+- Color #F5F5DC Este color lo utilizamos para dejarlo como fondo de la aplicación.
+- Color #9ACF9F Lo utilizamos como color secunadario para destacar contenido importante de la aplicación y que haga contraste con el fondo y su contenido.
+- Color #BBC4BC Lo utilizamos como fondo de los Cardview.Este color aparace en distintas opacidades. 
+- Color #000000 Lo utilizamos para el texto y el contorno de los iconos.
+- Color #FFFFFF Lo utilizamos para el texto
+- Color #E28D5D Este lo utilizamos para el contraste de texto en los titulos de las actividades.
+- Color #9ED2BE Se utiliza para destacar botones.
+
+### TIPOGRAIFA
+
+- Istock Web: esta tipografia la utilizamos para los titulos
+- Inder: la utilizamos para el texto de la aplicación y juamos con sus opacidades.
+
+### ICONOS
+![usuario-removebg-preview](https://github.com/Ach2290/APP/assets/132547490/d1d60b18-fd6b-42b0-ba7a-97301cd10fdf)
+
+- Este icono se usará en el NavigationBar para indicar la zona del perfil y en las CardViewdonde haya usuarios .
+
+![pagina-de-inicio-removebg-preview](https://github.com/Ach2290/APP/assets/132547490/5cb29fce-3a75-4b96-b1c0-8dfa5d6e00e2)
+
+- Este icono se usará en el NavigationBar para indicar la zona de inicio
+  
+![balon-de-futbol-removebg-preview](https://github.com/Ach2290/APP/assets/132547490/6d99364b-4872-40f2-b7ec-79f415f58c8e)
+
+- Este icono se usará en el NavigationBar para ver los partidos en los que el usuario está apuntado.
+
+![pin-de-ubicacion-removebg-preview](https://github.com/Ach2290/APP/assets/132547490/b34208c6-ea60-46b9-82fd-5fb3c7632c97)
+
+-Este icono lo utilizamos en las CardView donde se muestra los campos de futbol y su ubicacion además de en el RecyclerView.
